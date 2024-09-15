@@ -1,0 +1,4 @@
+﻿  Felino.cpp
+C:\Users\liese\Downloads\Felino\Felino\Felino.h(20,18): error C2084: la función 'Felino::Felino(void)' ya tiene un cuerpo
+C:\Users\liese\Downloads\Felino\Felino\Felino.h(12): message : vea la definición anterior de '{ctor}'
+C:\Users\liese\Downloads\Felino\Felino\Leon.h(14,14): error C2264: 'Felino::Felino': error en la definición o declaración de función; no se ha llamado a la función
